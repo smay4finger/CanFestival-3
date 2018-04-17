@@ -1,5 +1,11 @@
 Makefile
 bin
 *.o
+*.pyc
+*.a
 
 drivers/commonDriver
+include/config.h
+objdictgen/canfestival_config.py
+src/canfestival.pc
+
